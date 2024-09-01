@@ -43,130 +43,18 @@
       "id": 7
     },
     {
-      "name": "q",
-      "email": "q",
-      "password": "q",
+      "name": "",
+      "email": "",
+      "password": "",
       "id": 8
-    },
+    }
+  ],
+  "movie": [
     {
-      "name": "q",
-      "email": "q",
-      "password": "q",
-      "id": 9
-    },
-    {
-      "name": "d",
-      "email": "",
-      "password": "",
-      "id": 10
-    },
-    {
-      "name": "p",
-      "email": "p",
-      "password": "p",
-      "id": 11
-    },
-    {
-      "name": "d",
-      "email": "d",
-      "password": "d",
-      "id": 12
-    },
-    {
-      "name": "d",
-      "email": "d",
-      "password": "d",
-      "id": 13
-    },
-    {
-      "name": "d",
-      "email": "d",
-      "password": "d",
-      "id": 14
-    },
-    {
-      "name": "d",
-      "email": "d",
-      "password": "d",
-      "id": 15
-    },
-    {
-      "name": "d",
-      "email": "d",
-      "password": "d",
-      "id": 16
-    },
-    {
-      "name": "l",
-      "email": "l",
-      "password": "l",
-      "id": 17
-    },
-    {
-      "name": "k",
-      "email": "k",
-      "password": "k",
-      "id": 18
-    },
-    {
-      "name": "c",
-      "email": "c",
-      "password": "c",
-      "id": 19
-    },
-    {
-      "name": "",
-      "email": "",
-      "password": "",
-      "id": 20
-    },
-    {
-      "name": "",
-      "email": "",
-      "password": "",
-      "id": 21
-    },
-    {
-      "name": "",
-      "email": "",
-      "password": "",
-      "id": 22
-    },
-    {
-      "name": "",
-      "email": "",
-      "password": "",
-      "id": 23
-    },
-    {
-      "name": "k",
-      "email": "k",
-      "password": "k",
-      "id": 24
-    },
-    {
-      "name": "",
-      "email": "",
-      "password": "",
-      "id": 25
-    },
-    {
-      "name": "",
-      "email": "",
-      "password": "",
-      "id": 26
-    },
-    {
-      "name": "",
-      "email": "",
-      "password": "",
-      "id": 27
-    },
-    {
-      "name": "",
-      "email": "",
-      "password": "",
-      "id": 28
+      "name": "Baby Mok",
+      "release": "2023",
+      "rating": "10/10",
+      "id": 1
     }
   ]
 }

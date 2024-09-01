@@ -55,7 +55,7 @@ export default {
 .logo{
     width: 100px
 }
-.register input{
+.register input, .add input{
     width: 300px;
     height: 40px;
     padding-left: 20px;
@@ -65,7 +65,7 @@ export default {
     margin-left: auto;
     border: 1px solid green;
 }
-.register button{
+.register button, .add button{
     background-color: rgb(0, 73, 0);
     border: 1px solid rgb(0, 73, 0);
     color: aliceblue;
