@@ -1,6 +1,6 @@
 <template>
     <Header />
-    <h1>Hi {{name}}! Home</h1>
+    <h1>Hi {{name}}! Movie Library</h1>
     <table border="1" class="table">
         <tr>
             <td>Id</td>

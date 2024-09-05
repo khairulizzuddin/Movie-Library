@@ -21,7 +21,7 @@ export default {
 
 <style>
 .nav{
-    background-color: green;
+    background-color: goldenrod;
     overflow: hidden;
 }
 .nav a{

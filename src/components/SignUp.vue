@@ -1,5 +1,5 @@
 <template>
-    <img class="logo" src="../assets/Starbucks.svg.png" />
+    <img class="logo" src="../assets/M.jpg.avif" />
     <h1>Sign Up</h1>
     <div class="register">
         <input type="text" v-model="name" placeholder="Enter Name"/>
@@ -53,7 +53,9 @@ export default {
 
 <style>
 .logo{
-    width: 100px
+    width: 200px;
+    padding-top: 10px;
+    border-radius: 10%;
 }
 .register input, .add input{
     width: 300px;
@@ -63,11 +65,11 @@ export default {
     margin-bottom: 30px;
     margin-right: auto;
     margin-left: auto;
-    border: 1px solid green;
+    border: 1px solid goldenrod;
 }
 .register button, .add button{
-    background-color: rgb(0, 73, 0);
-    border: 1px solid rgb(0, 73, 0);
+    background-color: goldenrod;
+    border: 1px solid goldenrod;
     color: aliceblue;
     cursor: pointer;
 }

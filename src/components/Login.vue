@@ -1,5 +1,5 @@
 <template>
-    <img class="logo" src="../assets/Starbucks.svg.png" />
+    <img class="logo" src="../assets/M.jpg.avif" />
     <h1>Login</h1>
     <div class="register">
         <input type="email" v-model="email" placeholder="Enter Email"/>

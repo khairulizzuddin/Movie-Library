@@ -4,57 +4,69 @@
       "name": "papi",
       "email": "pap@gmail.com",
       "password": "pap123",
-      "id": 1
+      "id": "1"
     },
     {
       "name": "ed",
       "email": "ed@gmail.com",
       "password": "ed123",
-      "id": 2
+      "id": "2"
     },
     {
       "name": "ed",
       "email": "ed@gmail.com",
       "password": "ed123",
-      "id": 3
+      "id": "3"
     },
     {
       "name": "kai",
       "email": "kai@gmail.com",
       "password": "kai123",
-      "id": 4
+      "id": "4"
     },
     {
       "name": "wan",
       "email": "wan@gmail.com",
       "password": "wan123",
-      "id": 5
-    },
-    {
-      "name": "wan",
-      "email": "wan@gmail.com",
-      "password": "wan123",
-      "id": 6
-    },
-    {
-      "name": "wan",
-      "email": "wan@gmail.com",
-      "password": "wan123",
-      "id": 7
-    },
-    {
-      "name": "",
-      "email": "",
-      "password": "",
-      "id": 8
+      "id": "5"
     }
   ],
   "movie": [
     {
-      "name": "Baby Mok",
-      "release": "2023",
-      "rating": "10/10",
-      "id": 1
+      "name": "Titanic",
+      "release": "1987",
+      "rating": "8.5/10",
+      "id": "1941"
+    },
+    {
+      "id": "06b5",
+      "name": "Fast And Furious 3",
+      "release": "2015",
+      "rating": "9/10"
+    },
+    {
+      "name": "Hotel Transvilnia",
+      "release": "2014",
+      "rating": "7/10",
+      "id": "7223"
+    },
+    {
+      "name": "Avengers: End Game",
+      "release": "2022",
+      "rating": "9/10",
+      "id": "3DBoqas"
+    },
+    {
+      "name": "Guardian of The Galaxy: Vol 2",
+      "release": "2021",
+      "rating": "7/10",
+      "id": "iCIvLwQ"
+    },
+    {
+      "name": "Midnight Runner",
+      "release": "2017",
+      "rating": "7.3/10",
+      "id": "Eg-bjYG"
     }
   ]
 }
